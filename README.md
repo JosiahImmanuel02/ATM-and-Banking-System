@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212223043003
+# Name:JOSIAH IMMANUEL A
+# Date:14-02-2026
 
 
 # AIM:
